@@ -1,1 +1,3 @@
 git hub exercise
+
+入职的第三天，正在学习git hub!
